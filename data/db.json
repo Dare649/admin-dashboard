@@ -1,0 +1,92 @@
+{
+    "delivery":[
+        {
+            "id": 1,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 2,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 3,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 4,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 5,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 6,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 7,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 8,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 9,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 10,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        },
+        {
+            "id": 1,
+            "date": "5th May, 2022",
+            "name": "Darasimi Okafor",
+            "dispatcher": "Apkan Aliu",
+            "package": "Bread",
+            "fee": "N2,000.000"
+        }
+    ]
+}
