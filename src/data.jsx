@@ -1,6 +1,6 @@
 import { RxDashboard } from 'react-icons/rx'
 import { TbTruckDelivery } from 'react-icons/tb'
-import { GrTransaction } from 'react-icons/gr'
+import { BiMoney } from 'react-icons/bi'
 import { FiUsers } from 'react-icons/fi'
 import { RiSettings4Fill } from 'react-icons/ri'
 import { MdNotifications } from 'react-icons/md'
@@ -23,7 +23,7 @@ export const datas = [
     {
         id: 3,
         path:  "/transactions",
-        icon: <GrTransaction/>,
+        icon: <BiMoney/>,
         title: "Transactions"
     },
     {

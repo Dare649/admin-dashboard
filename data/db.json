@@ -6,7 +6,11 @@
             "name": "Darasimi Okafor",
             "dispatcher": "Apkan Aliu",
             "package": "Bread",
-            "fee": "N2,000.000"
+            "fee": "N2,000.000",
+            "status": "complete",
+            "pickUp": "11, cypstolu street, goodswill estate.",
+            "dropOff": "5, cypstolu street, igando estate",
+            "weight": "2.5 kg"
         },
         {
             "id": 2,
@@ -14,7 +18,11 @@
             "name": "Darasimi Okafor",
             "dispatcher": "Apkan Aliu",
             "package": "Bread",
-            "fee": "N2,000.000"
+            "fee": "N2,000.000",
+            "status": "in-progress",
+            "pickUp": "11, cypstolu street, goodswill estate.",
+            "dropOff": "5, cypstolu street, igando estate",
+            "weight": "2.5 kg"
         },
         {
             "id": 3,
@@ -22,7 +30,11 @@
             "name": "Darasimi Okafor",
             "dispatcher": "Apkan Aliu",
             "package": "Bread",
-            "fee": "N2,000.000"
+            "fee": "N2,000.000",
+            "status": "canceled",
+            "pickUp": "11, cypstolu street, goodswill estate.",
+            "dropOff": "5, cypstolu street, igando estate",
+            "weight": "2.5 kg"
         },
         {
             "id": 4,
@@ -30,7 +42,11 @@
             "name": "Darasimi Okafor",
             "dispatcher": "Apkan Aliu",
             "package": "Bread",
-            "fee": "N2,000.000"
+            "fee": "N2,000.000",
+            "status": "complete",
+            "pickUp": "11, cypstolu street, goodswill estate.",
+            "dropOff": "5, cypstolu street, igando estate",
+            "weight": "2.5 kg"
         },
         {
             "id": 5,
@@ -38,55 +54,48 @@
             "name": "Darasimi Okafor",
             "dispatcher": "Apkan Aliu",
             "package": "Bread",
-            "fee": "N2,000.000"
-        },
-        {
-            "id": 6,
-            "date": "5th May, 2022",
-            "name": "Darasimi Okafor",
-            "dispatcher": "Apkan Aliu",
-            "package": "Bread",
-            "fee": "N2,000.000"
-        },
-        {
-            "id": 7,
-            "date": "5th May, 2022",
-            "name": "Darasimi Okafor",
-            "dispatcher": "Apkan Aliu",
-            "package": "Bread",
-            "fee": "N2,000.000"
-        },
-        {
-            "id": 8,
-            "date": "5th May, 2022",
-            "name": "Darasimi Okafor",
-            "dispatcher": "Apkan Aliu",
-            "package": "Bread",
-            "fee": "N2,000.000"
-        },
-        {
-            "id": 9,
-            "date": "5th May, 2022",
-            "name": "Darasimi Okafor",
-            "dispatcher": "Apkan Aliu",
-            "package": "Bread",
-            "fee": "N2,000.000"
-        },
-        {
-            "id": 10,
-            "date": "5th May, 2022",
-            "name": "Darasimi Okafor",
-            "dispatcher": "Apkan Aliu",
-            "package": "Bread",
-            "fee": "N2,000.000"
-        },
+            "fee": "N2,000.000",
+            "status": "canceled",
+            "pickUp": "11, cypstolu street, goodswill estate.",
+            "dropOff": "5, cypstolu street, igando estate",
+            "weight": "2.5 kg"
+        }
+    ],
+    "transaction": [
         {
             "id": 1,
-            "date": "5th May, 2022",
-            "name": "Darasimi Okafor",
-            "dispatcher": "Apkan Aliu",
-            "package": "Bread",
-            "fee": "N2,000.000"
+            "date": "3rd June, 2023",
+            "customer": "Darasimi Kasali",
+            "amount": "N12,000",
+            "status": "paid"
+        },
+        {
+            "id": 2,
+            "date": "3rd June, 2023",
+            "customer": "Darasimi Kasali",
+            "amount": "N12,000",
+            "status": "paid"
+        },
+        {
+            "id": 3,
+            "date": "3rd June, 2023",
+            "customer": "Darasimi Kasali",
+            "amount": "N12,000",
+            "status": "not paid"
+        },
+        {
+            "id": 4,
+            "date": "3rd June, 2023",
+            "customer": "Darasimi Kasali",
+            "amount": "N12,000",
+            "status": "paid"
+        },
+        {
+            "id": 5,
+            "date": "3rd June, 2023",
+            "customer": "Darasimi Kasali",
+            "amount": "N12,000",
+            "status": "not paid"
         }
     ]
 }

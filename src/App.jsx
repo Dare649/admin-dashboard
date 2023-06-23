@@ -6,12 +6,13 @@ import Transactions from './pages/Transactions.jsx'
 import Users from './pages/Users.jsx'
 import Settings from './pages/Settings.jsx'
 import Logout from './pages/Logout.jsx'
+import SideBar from './SideBar.jsx'
 
 
 const App = () => {
   return (
     <BrowserRouter>
-
+      <SideBar>
         <Routes>
           <Route path='/' element={<Dashboard/>}/>
           <Route path='/deliveries' element={<Deliveries/>}/>
@@ -20,7 +21,7 @@ const App = () => {
           <Route path='/settings' element={<Settings/>}/>
           <Route path='/logout' element={<Logout/>}/>
         </Routes>
-
+      </SideBar>
     </BrowserRouter>
   )
 }
